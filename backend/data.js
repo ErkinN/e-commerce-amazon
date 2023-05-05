@@ -13,8 +13,8 @@ const data = {
       description: "high quality product",
     },
     {
-      name: "Nike Slim Pants",
-      slug: "nike-slim-pants",
+      name: "Adidas Slim Shirt",
+      slug: "adidas-slim-shirts",
       image: "/images/p2.jpg",
       category: "pants",
       price: 120,
